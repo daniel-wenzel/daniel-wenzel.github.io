@@ -1,6 +1,6 @@
 # Site settings
 title: Daniel Wenzel
-description: A blog about lorem ipsum dolor sit amet
+description: Personal website of Daniel Wenzel. Software developer and data analyst from Berlin.
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 url: "https://daniel-wenzel.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
